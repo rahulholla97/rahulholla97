@@ -1,7 +1,7 @@
 <div style="background-color: white;">
 <h1 align="left">Hi, I'm Rahul M Holla 👋</h1> <p align="left"> <b>Data Engineer | Machine Learning Engineer</b>
 
-<p align="justify">Passionate about crafting scalable data solutions and machine learning models that solve real-world problems. <br> With over 3 years of experience in data science and machine learning, combined with a strong foundation in engineering, I specialize in building reliable data pipelines, streamlining processes, and delivering efficient ML-driven solutions.</p>
+<p align="justify">Passionate about crafting scalable data solutions and machine learning models that solve real-world problems. <br> With over 2.5 years of experience in data science and machine learning, combined with a strong foundation in engineering, I specialize in building reliable data pipelines, streamlining processes, and delivering efficient ML-driven solutions.</p>
 
 #### Have a look at my <span style="font-weight: normal; font-size: 22px;">**[<u>Portfolio</u>](https://rahulholla.netlify.app/)**</span>  to see my projects, skills, and professional experience in more detail.
 
