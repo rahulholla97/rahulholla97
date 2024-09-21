@@ -1,9 +1,11 @@
 <div style="background-color: white;">
-<h1 align="left">Hi, I'm Rahul Holla 👋</h1> <p align="left"> <b>Data Engineer | Machine Learning Engineer</b>
+<h1 align="left">Hi, I'm Rahul M Holla 👋</h1> <p align="left"> <b>Data Engineer | Machine Learning Engineer</b>
 
-Passionate about crafting scalable data solutions and machine learning models that solve real-world problems. <br> With <b>2.5+ years of experience</b> in data science and machine learning, combined with a strong foundation in engineering, I specialize in building reliable data pipelines, streamlining processes, and delivering efficient ML-driven solutions. </p>
+<p align="justify">Passionate about crafting scalable data solutions and machine learning models that solve real-world problems. <br> With over 3 years of experience in data science and machine learning, combined with a strong foundation in engineering, I specialize in building reliable data pipelines, streamlining processes, and delivering efficient ML-driven solutions.</p>
 
-<b><u>Let's solve problems one bug at a time!</b></u>
+#### Have a look at my <span style="font-weight: normal; font-size: 22px;">**[<u>Portfolio</u>](https://rahulholla.netlify.app/)**</span>  to see my projects, skills, and professional experience in more detail.
+
+<b>Let's solve problems, one bug at a time!</b>
 
 <h2 align="center">Technologies I Work With</h2>
 
@@ -218,11 +220,27 @@ Passionate about crafting scalable data solutions and machine learning models th
 ## Connect with me :
 
 <a href="https://www.linkedin.com/in/rahulholla" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" alt="Confluence logo" style="margin-right: 25px;" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn logo" height="50" width="50" style="margin-right: 25px;" >
 </a>
 
 <a href="https://stackoverflow.com/users/27392223/rahul-holla" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" alt="LinkedIn" height="50" width="50" alt="Confluence logo" style="margin-right: 25px;" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow logo" height="50" width="50" style="margin-right: 25px;" >
+</a>
+
+<a href="https://rahul-holla.slack.com/archives/C07NJB870N8" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="Slack logo" height="50" width="50" style="margin-right: 25px;" >
+</a>
+
+<a href="https://medium.com/@rahulholla1" target="_blank">
+   <img src="./logos/Medium-Symbol.png" height="50" width="70" alt="Medium logo" style="margin-right: 25px;" />
+</a>
+
+<a href="mailto:rahulholla1@gmail.com" target="_blank">
+   <img src="./logos/mail.jpg" height="55" width="55" alt="Email logo" style="margin-right: 25px;" />
+</a>
+
+<a href="https://rahulholla.netlify.app/" target="_blank">
+   <img src="./logos/website.png" height="55" width="55" alt="Email logo" style="margin-right: 25px;" />
 </a>
 
 <br>
@@ -232,10 +250,11 @@ Passionate about crafting scalable data solutions and machine learning models th
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulholla97" alt="rahulholla97" /></a> </p>
 <p align="left">
 
-<!-- <div align="center">
-<img alt="Rahul's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rahulholla97&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulholla97&layout=compact&&langs_count=8"/>-->
 <!--https://devicon.dev/-->
+<!-- <div align="left"> -->
+<!-- <img alt="Rahul's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rahulholla97&show_icons=true&theme=transparent"/> -->
+<!-- <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulholla97&layout=compact&&langs_count=8"/> -->
+<!-- </div> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulholla97&label=Profile%20views&color=0e75b6&style=flat" alt="rahulholla97" /> </p> -->
 
 ---
