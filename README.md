@@ -57,19 +57,23 @@ Passionate about crafting scalable data solutions and machine learning models th
 
 <div style="margin-bottom: 40px;"></div>
 
-### Front-end Frameworks :
-
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" width="50" alt="django logo" style="margin-right: 25px;"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" height="50" width="50" alt="flask logo" style="margin-right: 25px;"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" width="50" alt="fastapi logo" style="margin-right: 25px;"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" height="50" width="50" alt="streamlit logo" style="margin-right: 25px;"/>
-
-</div>
+<h2 style="margin: 0; padding-bottom: 10px;">Front-end Frameworks</h2>
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none; padding: 25px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" width="50" alt="django logo" />
+    </td>
+    <td style="border: none; padding: 25px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" height="50" width="50" alt="flask logo" />
+    </td>
+    <td style="border: none; padding: 25px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" width="50" alt="fastapi logo" />
+    </td>
+    <td style="border: none; padding: 25px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" height="50" width="50" alt="streamlit logo" />
+    </td>
+  </tr>
+</table>
 
 <div style="margin-bottom: 40px;"></div>
 
