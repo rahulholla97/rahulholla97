@@ -1,3 +1,4 @@
+<div style="background-color: white;">
 <h1 align="left">Hi, I'm Rahul Holla 👋</h1> <p align="left"> <b>Data Engineer | Machine Learning Engineer</b>
 
 Passionate about crafting scalable data solutions and machine learning models that solve real-world problems. <br> With <b>2.5+ years of experience</b> in data science and machine learning, combined with a strong foundation in engineering, I specialize in building reliable data pipelines, streamlining processes, and delivering efficient ML-driven solutions. </p>
@@ -234,3 +235,4 @@ Passionate about crafting scalable data solutions and machine learning models th
 ---
 
 <p align="center">12+ Projects Completed | 6+ Satisfied Clients</p>
+</div>
