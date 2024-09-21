@@ -219,6 +219,10 @@
 
 ## Connect with me :
 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rahulholla1@gmail.com" target="_blank">
+   <img src="./logos/Gmail.png" height="50" width="60" alt="Gmail logo" style="margin-right: 25px;" />
+</a>
+
 <a href="https://www.linkedin.com/in/rahulholla" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn logo" height="50" width="50" style="margin-right: 25px;" >
 </a>
