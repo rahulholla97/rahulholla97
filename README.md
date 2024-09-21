@@ -217,12 +217,23 @@ Passionate about crafting scalable data solutions and machine learning models th
 
 ## Connect with me :
 
+<a href="https://www.linkedin.com/in/rahulholla" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" alt="Confluence logo" style="margin-right: 25px;" >
+</a>
+
+<a href="https://stackoverflow.com/users/27392223/rahul-holla" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" alt="LinkedIn" height="50" width="50" alt="Confluence logo" style="margin-right: 25px;" >
+</a>
+
+<a href="https://stackoverflow.com/users/27392223/rahul-holla" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="LinkedIn" height="50" width="50" alt="Confluence logo" style="margin-right: 25px;" >
+</a>
+
 <br>
 <div style="margin-bottom: 40px;"></div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulholla97" alt="rahulholla97" /></a> </p>
 <p align="left">
-
 
 <!-- <div align="center">
 <img alt="Rahul's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rahulholla97&show_icons=true&theme=transparent"/>
