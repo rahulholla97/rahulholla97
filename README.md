@@ -238,9 +238,7 @@ Passionate about crafting scalable data solutions and machine learning models th
 <!-- <div align="center">
 <img alt="Rahul's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rahulholla97&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulholla97&layout=compact&&langs_count=8"/>-->
-
 <!--https://devicon.dev/-->
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulholla97&label=Profile%20views&color=0e75b6&style=flat" alt="rahulholla97" /> </p> -->
 
 ---
