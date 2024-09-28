@@ -1,13 +1,31 @@
 <div style="background-color: white;">
 <h1 align="left">Hi, I'm Rahul M Holla 👋🏻</h1> <p align="left"> <b>Data Engineer | Machine Learning Engineer</b>
 
-<sub>_🌟 <b> Note for Best Experience : </b> This profile is optimized for **light mode**. For the best visual experience, consider switching to light mode in your GitHub settings._</sub>
+<sub>_🌱 <b> Note for Best Experience : </b> This profile is optimized for **light mode**. For the best visual experience, consider switching to light mode in your GitHub settings._</sub>
 
-<p align="justify">Passionate about crafting scalable data solutions and machine learning models that solve real-world problems. <br> With over 2.5 years of experience in data science and machine learning, combined with a strong foundation in engineering, I specialize in building reliable data pipelines, streamlining processes, and delivering efficient ML-driven solutions.</p>
+🌟 **Passionate Data Enthusiast and Machine Learning Engineer**
 
-#### Have a look at my <span style="font-weight: normal; font-size: 22px;">**[<u>Portfolio</u>](https://rahulholla.netlify.app/)**</span>  to see my projects, skills, certifications, and professional experience in more detail.
+💻 **Experience**: Over 2.5 years in Data Science & Machine Learning
+
+📊 **Specialization**:
+-   Crafting scalable data solutions that solve real-world problems 🌍  
+-   Building reliable data pipelines for seamless processes 🔧  
+-   Delivering efficient LLM-driven solutions 🚀  
+
+
+🌟 <b>What I'm Up To :</b>
+
+- Currently diving into <b>Graph Neural Networks</b> and exploring <b>Quantum Machine Learning!</b>💡
+- Always on the lookout for new challenges in <b>real-time data processing</b> ⚙️
+- Feel free to reach out! <b>I love collaborating and sharing ideas</b> 💬</p>
+
+##### Have a look at my <span style="font-weight: normal; font-size: 20px;">**[<u>Portfolio</u>](https://rahulholla.netlify.app/)**</span>  to see my projects, skills, certifications, and professional experience in more detail.
 
 <b>Let's solve problems, one bug at a time!</b>
+
+#### 🌐 Socials:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rahulholla1@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulholla) [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://rahul-holla.slack.com/archives/C07NJB870N8) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rahulholla1) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27392223/rahul-holla) [![Portfolio](https://img.shields.io/badge/R-Portfolio-black?style=flat&labelColor=black&color=gold)](https://rahulholla.netlify.app/)
 
 <h2 align="center">Technologies I Work With</h2>
 
@@ -145,6 +163,8 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" height="100" width="50" alt="QT logo" style="margin-right: 25px;" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="100" width="50" alt="Scikit-learn logo" style="margin-right: 25px;" />
+
 </div>
 
 ### Models used for Inferencing / Fine-tuning :
@@ -217,6 +237,8 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" height="50" width="50" alt="Confluence logo" style="margin-right: 25px;" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" height="50" width="50" alt="Trello logo" style="margin-right: 25px;" />
+
 </div>
 
 ## Connect with me :
@@ -229,16 +251,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn logo" height="50" width="50" style="margin-right: 25px;" >
 </a>
 
-<a href="https://stackoverflow.com/users/27392223/rahul-holla" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow logo" height="50" width="50" style="margin-right: 25px;" >
-</a>
-
 <a href="https://rahul-holla.slack.com/archives/C07NJB870N8" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="Slack logo" height="50" width="50" style="margin-right: 25px;" >
 </a>
 
 <a href="https://medium.com/@rahulholla1" target="_blank">
    <img src="./logos/Medium-Symbol.png" height="50" width="70" alt="Medium logo" style="margin-right: 25px;" />
+</a>
+
+<a href="https://stackoverflow.com/users/27392223/rahul-holla" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow logo" height="50" width="50" style="margin-right: 25px;" >
 </a>
 
 <a href="mailto:rahulholla1@gmail.com" target="_blank">
@@ -251,6 +273,10 @@
 
 <br>
 <br>
+
+### ✍🏻 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulholla97" alt="rahulholla97" /></a> </p>
@@ -261,7 +287,7 @@
 <!-- <img alt="Rahul's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rahulholla97&show_icons=true&theme=transparent"/> -->
 <!-- <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulholla97&layout=compact&&langs_count=8"/> -->
 <!-- </div> -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulholla97&label=Profile%20views&color=0e75b6&style=flat" alt="rahulholla97" /> </p> -->
+<!-- [![](https://visitcount.itsvg.in/api?id=rahulholla97&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 ---
 
