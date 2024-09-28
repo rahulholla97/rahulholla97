@@ -18,7 +18,7 @@
 - Always on the lookout for new challenges in <b>real-time data processing</b> ⚙️
 - Feel free to reach out! <b>I love collaborating and sharing ideas</b> 💬</p>
 
-<h4 style="font-size: 28px; font-weight: normal;">Have a look at my <span style="font-weight: normal; font-size: 30px;"><a href="https://rahulholla.netlify.app/"><b>Portfolio</b></a></span> to see my projects, skills, certifications, and professional experience in more detail.</h4>
+<h4 style="font-size: 30px; font-weight: normal;">Have a look at my <span style="font-weight: normal; font-size: 32px;"><a href="https://rahulholla.netlify.app/"><b>Portfolio</b></a></span> to see my projects, skills, certifications, and professional experience in more detail.</h4>
 
 <b>Let's solve problems, one bug at a time!</b>
 
