@@ -265,7 +265,9 @@
 <a href="mailto:rahulholla1@gmail.com" target="_blank">
    <img src="./logos/mail.jpg" height="55" width="55" alt="Email logo" style="margin-right: 25px;"/>
 </a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://rahulholla.netlify.app/" target="_blank">
    <img src="./logos/website.png" height="55" width="55" alt="Email logo" style="margin-right: 25px;"/>
 </a>
