@@ -66,19 +66,15 @@
 
 - **Vector Databases**
 
-<div>
-  <span style="display: inline-block; margin-right: 25px;">
-    <img src="./logos/qdrant.png" height="25" width="75" alt="qdrant logo" />
-  </span>
-  
-  <span style="display: inline-block; margin-right: 25px;">
-    <img src="./logos/snowflake.png" height="25" width="100" alt="snowflake logo" />
-  </span>
-  
-  <span style="display: inline-block; margin-right: 25px;">
-    <img src="./logos/milvus.png" height="25" width="75" alt="milvus logo" />
-  </span>
-</div>
+  <div>
+
+    <img src="./logos/qdrant.png" height="25" width="75" alt="qdrant logo" style="margin-right: 25px;"/>  
+
+    <img src="./logos/snowflake.png" height="25" width="100" alt="snowflake logo" style="margin-right: 25px;"/>  
+
+    <img src="./logos/milvus.png" height="25" width="75" alt="milvus logo" style="margin-right: 25px;"/>
+
+  </div>
 
 <div style="margin-bottom: 40px;"></div>
 
