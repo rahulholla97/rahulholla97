@@ -227,15 +227,15 @@
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="50" width="50" alt="Postman logo" style="margin-right: 25px;" />
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height="50" width="50" alt="Jira logo" style="margin-right: 25px;" />
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="50" width="50" alt="Anaconda logo" style="margin-right: 25px;" />
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" height="50" width="50" alt="Dbeaver logo" style="margin-right: 25px;" />
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" height="50" width="50" alt="Confluence logo" style="margin-right: 25px;" />
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" height="50" width="50" alt="Trello logo" style="margin-right: 25px;" />
 
 </div>
