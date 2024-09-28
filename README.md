@@ -21,7 +21,7 @@
 ### 📜 Have a look at my <span style="font-weight: normal; font-size: 26px;">**[<u>Portfolio</u>](https://rahulholla.netlify.app/)**</span>  to see my projects, certifications, professional experience in detail 📜
 
 <div align="center">
-  <h2><b>✨ Let's solve problems, one bug at a time! ✨</b></h2>
+  <h3><b>✨ Let's solve problems, one bug at a time! ✨</b></h3>
 </div>
 
 #### 🌐 Socials:
