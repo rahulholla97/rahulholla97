@@ -18,9 +18,9 @@
 - Always on the lookout for new challenges in <b>real-time data processing</b> ⚙️
 - Feel free to reach out! <b>I love collaborating and sharing ideas</b> 💬</p>
 
-### 💼 Have a look at my <span style="font-weight: normal; font-size: 26px;">**[<u>Portfolio</u>](https://rahulholla.netlify.app/)**</span>  to see my projects, certifications, professional experience in detail 💼
+### ✨ Have a look at my <span style="font-weight: normal; font-size: 26px;">**[<u>Portfolio</u>](https://rahulholla.netlify.app/)**</span>  to see my projects, certifications, professional experience in detail ✨
 
-<b>✨ Let's solve problems, one bug at a time! ✨</b>
+<b> Let's solve problems, one bug at a time!</b>
 
 #### 🌐 Socials:
 
