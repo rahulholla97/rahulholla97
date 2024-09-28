@@ -245,27 +245,27 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rahulholla1@gmail.com" target="_blank">
    <img src="./logos/Gmail.png" height="50" width="60" alt="Gmail logo" style="margin-right: 25px;"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/rahulholla" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn logo" height="50" width="50" style="margin-right: 25px;" >
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://rahul-holla.slack.com/archives/C07NJB870N8" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="Slack logo" height="50" width="50" style="margin-right: 25px;" >
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@rahulholla1" target="_blank">
    <img src="./logos/Medium-Symbol.png" height="50" width="70" alt="Medium logo" style="margin-right: 25px;"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/27392223/rahul-holla" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow logo" height="50" width="50" style="margin-right: 25px;" >
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:rahulholla1@gmail.com" target="_blank">
    <img src="./logos/mail.jpg" height="55" width="55" alt="Email logo" style="margin-right: 25px;"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://rahulholla.netlify.app/" target="_blank">
    <img src="./logos/website.png" height="55" width="55" alt="Email logo" style="margin-right: 25px;"/>
 </a>
