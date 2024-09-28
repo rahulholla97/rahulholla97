@@ -12,14 +12,13 @@
 -   Building reliable data pipelines for seamless processes 🔧  
 -   Delivering efficient LLM-driven solutions 🚀  
 
-
 🌟 <b>What I'm Up To :</b>
 
 - Currently diving into <b>Graph Neural Networks</b> and exploring <b>Quantum Machine Learning!</b>💡
 - Always on the lookout for new challenges in <b>real-time data processing</b> ⚙️
 - Feel free to reach out! <b>I love collaborating and sharing ideas</b> 💬</p>
 
-#### Have a look at my <span style="font-weight: normal; font-size: 24px;">**[<u>Portfolio</u>](https://rahulholla.netlify.app/)**</span>  to see my projects, skills, certifications, and professional experience in more detail.
+### Have a look at my <span style="font-weight: normal; font-size: 26px;">**[<u>Portfolio</u>](https://rahulholla.netlify.app/)**</span>  to see my projects, skills, certifications, and professional experience in more detail.
 
 <b>Let's solve problems, one bug at a time!</b>
 
