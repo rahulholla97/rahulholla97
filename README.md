@@ -171,12 +171,13 @@
 ### Models used for Inferencing / Fine-tuning :
 
 - BERT
-- Llama 3.1 [70B and 405B]
-- Mistral [7B]
-- Falcon [7B and 40B]
-- Mixtral [8x7B]
-- Gemma [7B]
-- Claude 3 [Sonnet and Opus]
+- Yolo        [v8 and 11]
+- Llama 3.1   [8B, 70B and 405B]
+- Mistral     [7B]
+- Falcon      [7B and 40B]
+- Mixtral     [8x7B]
+- Gemma       [7B]
+- Claude 3    [Sonnet and Opus]
 
 ### Cloud Services :
 
