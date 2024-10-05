@@ -71,11 +71,11 @@
 
   <div>
 
-    <img src="./logos/qdrant.png" height="25" width="75" alt="qdrant logo" style="margin-right: 25px;"/>  
+    <img src="./logos/qdrant.png" height="50" width="125" alt="qdrant logo" style="margin-right: 25px;"/>  
 
-    <img src="./logos/snowflake.png" height="25" width="100" alt="snowflake logo" style="margin-right: 25px;"/>  
+    <img src="./logos/snowflake.png" height="50" width="125" alt="snowflake logo" style="margin-right: 25px;"/>  
 
-    <img src="./logos/milvus.png" height="25" width="75" alt="milvus logo" style="margin-right: 25px;"/>
+    <img src="./logos/milvus.png" height="50" width="100" alt="milvus logo" style="margin-right: 25px;"/>
 
   </div>
 
