@@ -27,29 +27,30 @@
 
 #### 🌐 Socials :
 
-<a href="mailto:rahulholla1@gmail.com">
+<a href="mailto:rahulholla1@gmail.com" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" style="height: 25px;">
 </a> &nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/rahulholla">
+<a href="https://linkedin.com/in/rahulholla" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 25px;">
 </a> &nbsp;&nbsp;
 
-<a href="https://rahul-holla.slack.com/archives/C07NJB870N8">
+<a href="https://rahul-holla.slack.com/archives/C07NJB870N8" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" alt="Slack" style="height: 25px;">
 </a> &nbsp;&nbsp;
 
-<a href="https://medium.com/@rahulholla1">
+<a href="https://medium.com/@rahulholla1" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" style="height: 25px;">
 </a> &nbsp;&nbsp;
 
-<a href="https://stackoverflow.com/users/27392223/rahul-holla">
+<a href="https://stackoverflow.com/users/27392223/rahul-holla" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stackoverflow&logoColor=white" alt="Stack Overflow" style="height: 25px;">
 </a> &nbsp;&nbsp;
 
-<a href="https://rahulholla.netlify.app/">
+<a href="https://rahulholla.netlify.app/" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/R-Portfolio-black?style=flat&labelColor=black&color=gold" alt="Portfolio" style="height: 25px;">
 </a>
+
 
 <h2 align="center">Technologies I Work With</h2>
 
