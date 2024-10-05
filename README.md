@@ -71,7 +71,7 @@
 
   <div>
 
-    <img src="./logos/qdrant.png" height="35" width="125" alt="qdrant logo" style="margin-right: 25px;"/>
+    <img src="./logos/qdrant.png" height="35" width="100" alt="qdrant logo" style="margin-right: 25px;"/>
 
     <img src="./logos/snowflake.png" height="35" width="125" alt="snowflake logo" style="margin-right: 25px;"/>
 
