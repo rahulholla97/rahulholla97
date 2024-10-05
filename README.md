@@ -5,12 +5,13 @@
 
 🌟 **Passionate Data Enthusiast and Machine Learning Engineer**
 
-💻 **Experience**: Over 2.5 years in Data Science & Machine Learning
+💻 **Experience** : Over 2.5 years in Data Science & Machine Learning
 
-📊 **Specialization**:
--   Crafting scalable data solutions that solve real-world problems 🌍  
--   Building reliable data pipelines for seamless processes 🔧  
--   Delivering efficient LLM-driven solutions 🚀  
+📊 **Specialization** :
+
+- Crafting scalable data solutions that solve real-world problems 🌍  
+- Building reliable data pipelines for seamless processes 🔧
+- Delivering efficient LLM-driven solutions 🚀
 
 🌟 <b>What I'm Up To :</b>
 
@@ -24,7 +25,7 @@
   <h3><b>✨ Let's solve problems, one bug at a time! ✨</b></h3>
 </div>
 
-#### 🌐 Socials:
+#### 🌐 Socials :
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rahulholla1@gmail.com) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulholla) &nbsp; [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://rahul-holla.slack.com/archives/C07NJB870N8) &nbsp; [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rahulholla1) &nbsp; [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27392223/rahul-holla) &nbsp; [![Portfolio](https://img.shields.io/badge/R-Portfolio-black?style=flat&labelColor=black&color=gold)](https://rahulholla.netlify.app/)
 
@@ -316,5 +317,5 @@
 
 ---
 
-<p align="center">12+ Projects Completed | 6+ Satisfied Clients</p>
+<p align="center"><b>10+ Language Models Trained &nbsp;&nbsp; | &nbsp;&nbsp; 12+ Projects Completed &nbsp;&nbsp; | &nbsp;&nbsp; 6+ Satisfied Clients</b></p>
 </div>
