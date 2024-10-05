@@ -105,6 +105,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="50" width="50" alt="css3 logo" style="margin-right: 25px;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript logo" style="margin-right: 25px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="50" width="50" alt="streamlit logo" style="margin-right: 25px;"/>
 
 </div>
 
@@ -147,6 +149,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" height="50" width="50" alt="plotly logo" style="margin-right: 25px;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" width="50" alt="matplotlib logo" style="margin-right: 25px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50" width="50" alt="Seaborn logo" style="margin-right: 25px;"/>
 
 </div>
 
@@ -165,6 +169,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" height="100" width="50" alt="QT logo" style="margin-right: 25px;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="100" width="50" alt="Scikit-learn logo" style="margin-right: 25px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" height="100" width="50" alt="open-cv logo" style="margin-right: 25px;"/>
 
 </div>
 
@@ -210,6 +216,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="50" width="50" alt="Docker logo" style="margin-right: 25px;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="50" width="50" alt="Jenkins logo" style="margin-right: 25px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="50" width="50" alt="Bash logo" style="margin-right: 25px;"/>
 
 </div>
 
@@ -229,7 +237,7 @@
 
 <div style="margin-bottom: 40px;"></div>
 
-### Other Skills :
+### Other Tools :
 
 <div align="left">
 
@@ -284,16 +292,26 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔥 Streak Board
+
+<p align="left"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulholla97&theme=javascript-dark" alt="rahul holla github streak board" /></p>
+
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulholla97" alt="rahulholla97"/></a> </p>
 <p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulholla97" alt="rahulholla97"/></a>
+</p>
 
 <!--https://devicon.dev/-->
-<!-- <div align="left"> -->
-<!-- <img alt="Rahul's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rahulholla97&show_icons=true&theme=transparent"/> -->
-<!-- <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulholla97&layout=compact&&langs_count=8"/> -->
-<!-- </div> -->
+
+<!-- <div align="left">
+
+  <img alt="Rahul's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rahulholla97&show_icons=true&theme=transparent"/>
+
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulholla97&layout=compact&&langs_count=8"/>
+
+</div> -->
+
 <!-- [![](https://visitcount.itsvg.in/api?id=rahulholla97&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 ---
