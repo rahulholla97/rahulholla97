@@ -27,24 +27,11 @@
 
 #### 🌐 Socials :
 
-<a href="mailto:rahulholla1@gmail.com" style="text-decoration: none; outline: none; border: none;">
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" style="height: 30px;">
-</a> &nbsp;
-<a href="https://linkedin.com/in/rahulholla" style="text-decoration: none; outline: none; border: none;">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px;">
-</a> &nbsp;
-<a href="https://rahul-holla.slack.com/archives/C07NJB870N8" style="text-decoration: none; outline: none; border: none;">
-  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" alt="Slack" style="height: 30px;">
-</a> &nbsp;
-<a href="https://medium.com/@rahulholla1" style="text-decoration: none; outline: none; border: none;">
-  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" style="height: 30px;">
-</a> &nbsp;
-<a href="https://stackoverflow.com/users/27392223/rahul-holla" style="text-decoration: none; outline: none; border: none;">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stackoverflow&logoColor=white" alt="Stack Overflow" style="height: 30px;">
-</a> &nbsp;
-<a href="https://rahulholla.netlify.app/" style="text-decoration: none; outline: none; border: none;">
-  <img src="https://img.shields.io/badge/R-Portfolio-black?style=flat&labelColor=black&color=gold" alt="Portfolio" style="height: 30px;">
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulholla1@gmail.com) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulholla) &nbsp; [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://rahul-holla.slack.com/archives/C07NJB870N8) &nbsp; [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahulholla1) &nbsp; [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27392223/rahul-holla) &nbsp; [![Portfolio](https://img.shields.io/badge/R-Portfolio-black?style=for-the-badge&labelColor=black&color=gold)](https://rahulholla.netlify.app/)
+
+#### 🌐 Socials :
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rahulholla1@gmail.com) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulholla) &nbsp; [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://rahul-holla.slack.com/archives/C07NJB870N8) &nbsp; [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rahulholla1) &nbsp; [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27392223/rahul-holla) &nbsp; [![Portfolio](https://img.shields.io/badge/R-Portfolio-black?style=flat&labelColor=black&color=gold)](https://rahulholla.netlify.app/)
 
 <h2 align="center">Technologies I Work With</h2>
 
