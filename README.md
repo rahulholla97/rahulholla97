@@ -25,7 +25,7 @@
   <h3><b>✨ Let's solve problems, one bug at a time! ✨</b></h3>
 </div>
 
-#### 🌐 Socials :
+### 🌐 Socials :
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulholla1@gmail.com) &nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulholla) &nbsp;&nbsp; [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://rahul-holla.slack.com/archives/C07NJB870N8) &nbsp;&nbsp; [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rahulholla1) &nbsp;&nbsp; [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27392223/rahul-holla) &nbsp;&nbsp; [![Portfolio](https://img.shields.io/badge/R-Portfolio-black?style=for-the-badge&labelColor=black&color=gold)](https://rahulholla.netlify.app/)
 
