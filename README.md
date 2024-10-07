@@ -233,6 +233,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="50" width="50" alt="PyCharm logo" style="margin-right: 25px;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="50" width="50" alt="Jupyter Notebook logo" style="margin-right: 25px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="50" width="50" alt="Google Colab logo" style="margin-right: 25px;"/>
 
 </div>
 
