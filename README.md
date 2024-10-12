@@ -1,4 +1,9 @@
 <div style="background-color: white;">
+
+<p align="center">
+  <img src="./logos/rahul-holla-banner.png" alt="Cover Image"/>
+</p>
+
 <h1 align="left">Hi, I'm Rahul M Holla 👋🏻</h1> <p align="left"> <b>Data Engineering | Machine Learning | Software Development</b>
 
 <sub>_🌱 <b> Note for Best Experience : </b> This profile is optimized for **light mode**. For the best visual experience, consider switching to light mode in your GitHub settings._</sub>
