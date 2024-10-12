@@ -172,6 +172,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="100" width="50" alt="Scikit-learn logo" style="margin-right: 25px;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" height="100" width="50" alt="open-cv logo" style="margin-right: 25px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" width="50" alt="huggingface logo" style="margin-right: 25px;"/>
 
 </div>
 
