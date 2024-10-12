@@ -1,7 +1,7 @@
 <div style="background-color: white;">
 
 <p align="center">
-  <img src="./logos/rahul-holla-banner.png" alt="Cover Image"/>
+  <img src="./logos/rahul-holla-banner.gif" alt="Cover Image"/>
 </p>
 
 <h1 align="left">Hi, I'm Rahul M Holla 👋🏻</h1> <p align="left"> <b>Data Engineering | Machine Learning | Software Development</b>
