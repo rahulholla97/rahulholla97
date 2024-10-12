@@ -161,19 +161,19 @@
 
 <div align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" height="100" width="100" alt="pytorch logo" style="margin-right: 25px; vertical-align: middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" height="100" width="100" alt="pytorch logo" style="margin-right: 25px;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" height="100" width="100" alt="tensorflow logo" style="margin-right: 25px; vertical-align: middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" height="100" width="100" alt="tensorflow logo" style="margin-right: 25px;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" height="100" width="100" alt="keras logo" style="margin-right: 25px; vertical-align: middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" height="100" width="100" alt="keras logo" style="margin-right: 25px;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" height="100" width="50" alt="QT logo" style="margin-right: 25px; vertical-align: middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" height="100" width="50" alt="QT logo" style="margin-right: 25px;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="100" width="50" alt="Scikit-learn logo" style="margin-right: 25px; vertical-align: middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="100" width="50" alt="Scikit-learn logo" style="margin-right: 25px;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" height="100" width="50" alt="open-cv logo" style="margin-right: 25px; vertical-align: middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" height="100" width="50" alt="open-cv logo" style="margin-right: 25px;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" width="50" alt="huggingface logo" style="margin-right: 25px; vertical-align: middle;"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" width="50" alt="huggingface logo" style="margin-right: 25px;"/>
 
 </div>
 
@@ -201,6 +201,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="50" width="50" alt="Netlify logo" style="margin-right: 25px;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-line.svg" height="50" width="50" alt="Vercel logo" style="margin-right: 25px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" width="50" alt="huggingface logo" style="margin-right: 25px;"/>
 
 </div>
 
