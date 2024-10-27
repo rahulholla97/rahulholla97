@@ -4,7 +4,14 @@
   <img src="./logos/rahul-holla-banner.gif" alt="Cover Image"/>
 </p>
 
-<h1 align="left">Hi, I'm Rahul M Holla 👋🏻</h1> <p align="left"> <b>Data Engineering | Machine Learning | Software Development</b>
+<h1 align="left" style="display: flex; align-items: center;">
+    Hi, I'm Rahul M Holla
+    <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="75" height="75" alt="gif">
+</h1>
+
+<p align="left">
+    <b>Data Engineering | Machine Learning | Software Development</b>
+</p>
 
 <sub>_🌱 <b> Note for Best Experience : </b> This profile is optimized for **light mode**. For the best visual experience, consider switching to light mode in your GitHub settings._</sub>
 
