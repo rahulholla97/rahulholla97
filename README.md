@@ -76,11 +76,11 @@
 
   <div>
 
-    <img src="./logos/qdrant.png" height="35" width="100" alt="qdrant logo" style="margin-right: 50px;"/>
+    <img src="./logos/qdrant.png" height="35" width="100" alt="qdrant logo" style="margin-right: 25px;"/>
 
-    <img src="./logos/snowflake.png" height="35" width="125" alt="snowflake logo" style="margin-right: 50px;"/>
+    <img src="./logos/snowflake.png" height="35" width="125" alt="snowflake logo" style="margin-right: 25px;"/>
 
-    <img src="./logos/milvus.png" height="35" width="100" alt="milvus logo" style="margin-right: 50px;"/>
+    <img src="./logos/milvus.png" height="35" width="100" alt="milvus logo" style="margin-right: 25px;"/>
 
   </div>
 
@@ -123,24 +123,24 @@
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50" width="50" alt="numpy logo" style="margin-right: 25px;"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" height="50" width="50" alt="kafka logo" style="margin-right: 25px;"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="50" width="50" alt="pandas logo" style="margin-right: 25px;"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" height="50" width="50" alt="apache logo" style="margin-right: 25px;"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg" height="50" width="50" alt="prometheus logo" style="margin-right: 25px;"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" height="50" width="50" alt="airflow logo" style="margin-right: 25px;"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" height="50" width="50" alt="apache spark logo" style="margin-right: 25px;"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" height="50" width="50" alt="grafana logo" style="margin-right: 25px;"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" height="50" width="50" alt="teraform logo"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./logos/airbyte.png" height="50" width="125" alt="airbyte logo"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./logos/airbyte.png" height="50" width="125" alt="airbyte logo" style="margin-right: 25px;"/>
 
 </div>
 
