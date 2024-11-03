@@ -184,16 +184,20 @@
 
 </div>
 
+---
+
 ### Models used for Inferencing / Fine-tuning :
 
-- BERT
-- Yolo        [v8 and v11]
-- Llama 3.1   [8B, 70B and 405B]
-- Mistral     [7B]
-- Falcon      [7B and 40B]
-- Mixtral     [8x7B]
-- Gemma       [7B]
-- Claude 3    [Sonnet and Opus]
+- **BERT**
+- **Yolo** - `v8` `v11`
+- **Llama 3.1** - `8B` `70B` `405B`
+- **Mistral** - `7B`
+- **Falcon** - `7B` `40B`
+- **Mixtral** - `8x7B`
+- **Gemma** - `7B`
+- **Claude 3** - `Sonnet` `Opus`
+
+---
 
 ### Cloud Services :
 
