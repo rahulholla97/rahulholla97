@@ -6,7 +6,7 @@
 
 <h1 align="left">Hi, I'm Rahul M Holla 👋🏻</h1> <p align="left"> <b>Data Engineering | Machine Learning | Software Development</b>
 
-<sub>_🌱 <b> Note for Best Experience : </b> This profile is optimized for **LIGHT MODE**. For the best visual experience, consider switching to light mode : **Github Settings > Appearance > Theme** and selecting **Light**._</sub>
+<sub>_🌱 <b> Note for Best Experience : </b> This profile is optimized for **LIGHT MODE**. Consider switching to light mode : **Github Settings > Appearance > Theme** and selecting **Light**._</sub>
 
 🌟 **Passionate Data Enthusiast and Machine Learning Engineer**
 
