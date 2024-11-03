@@ -298,9 +298,6 @@
 <a href="https://rahulholla.netlify.app/" target="_blank">
    <img src="./logos/website.png" height="55" width="55" alt="Email logo" style="margin-right: 25px;"/>
 </a>
-<a href="https://medium.com/@rahulholla" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/medium/medium-original.svg" alt="Medium logo" height="50" width="50" style="margin-right: 25px;">
-</a>
 
 <br>
 <br>
