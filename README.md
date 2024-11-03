@@ -288,7 +288,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@rahulholla1" target="_blank" style="border: none;">
-   <img src="./logos/Medium-Symbol.png" height="50" width="70" alt="Medium logo" style="margin-right: 25px;"/>
+   <img src="./logos/Medium-Symbol.png" height="50" width="85" alt="Medium logo" style="margin-right: 25px;"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/27392223/rahul-holla" target="_blank" style="border: none;">
