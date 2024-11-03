@@ -138,7 +138,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" height="50" width="50" alt="teraform logo"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./logos/airbyte_1.png" height="50" width="75" alt="airbyte logo" style="margin-right: 25px;"/>
+  <img src="./logos/airbyte.png" height="50" width="75" alt="airbyte logo" style="margin-right: 25px;"/>
 
 </div>
 
@@ -297,6 +297,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://rahulholla.netlify.app/" target="_blank">
    <img src="./logos/website.png" height="55" width="55" alt="Email logo" style="margin-right: 25px;"/>
+</a>
+<a href="https://medium.com/@rahulholla" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/medium/medium-original.svg" alt="Medium logo" height="50" width="50" style="margin-right: 25px;">
 </a>
 
 <br>
