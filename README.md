@@ -140,7 +140,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" height="50" width="50" alt="teraform logo"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./logos/airbyte.png" height="50" width="125" alt="airbyte logo" style="margin-right: 25px;"/>
+  <img src="./logos/airbyte_1.png" height="50" width="75" alt="airbyte logo" style="margin-right: 25px;"/>
 
 </div>
 
