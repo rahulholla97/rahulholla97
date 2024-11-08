@@ -66,7 +66,9 @@
 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="50" width="50" alt="MongoDB logo" style="margin-right: 25px;"/>
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" height="50" width="100" alt="DynamoDB logo" style="margin-right: 25px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" height="50" width="100" alt="DynamoDB logo"/>
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" height="50" width="100" alt="Firebase logo" style="margin-right: 25px;"/>
 
   </div>
 
