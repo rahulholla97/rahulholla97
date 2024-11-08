@@ -42,21 +42,21 @@
 
   <div align="left">
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="50" width="75" alt="oracle logo" style="margin-right: 25px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="50" width="85" alt="oracle logo" style="margin-right: 25px;"/>
 
     <img src="./logos/redshift.png" height="50" width="125" alt="redshift logo" style="margin-right: 25px;"/>
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" width="75" alt="mysql logo" style="margin-right: 25px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" width="85" alt="mysql logo" style="margin-right: 25px;"/>
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="50" width="75" alt="postgresql logo" style="margin-right: 25px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="50" width="85" alt="postgresql logo" style="margin-right: 25px;"/>
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" height="50" width="75" alt="sqlite logo" style="margin-right: 25px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" height="50" width="85" alt="sqlite logo" style="margin-right: 25px;"/>
 
-    <img src="./logos/rds.png" height="50" width="75" alt="Amazon RDS logo" style="margin-right: 25px;"/>
+    <img src="./logos/rds.png" height="50" width="85" alt="Amazon RDS logo" style="margin-right: 25px;"/>
 
-    <img src="./logos/gcp_bq.png" height="50" width="75" alt="GCP Big Query logo" style="margin-right: 25px;"/>
+    <img src="./logos/gcp_bq.png" height="50" width="85" alt="GCP Big Query logo" style="margin-right: 25px;"/>
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" width="75" alt="GCP Big Query logo" style="margin-right: 25px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" width="85" alt="GCP Big Query logo" style="margin-right: 25px;"/>
           
   </div>
 
