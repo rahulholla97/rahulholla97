@@ -57,7 +57,7 @@
     <img src="./logos/gcp_bq.png" height="50" width="90" alt="GCP Big Query logo" style="margin-right: 25px;"/>
 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" width="90" alt="GCP Big Query logo" style="margin-right: 25px;"/>
-          
+
   </div>
 
 <div style="margin-bottom: 10px;"></div>
