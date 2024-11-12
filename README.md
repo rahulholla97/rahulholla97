@@ -4,7 +4,8 @@
   <img src="./logos/rahul-holla-banner.gif" alt="Cover Image"/>
 </p>
 
-<h1 align="left">Hi, I'm Rahul M Holla 👋🏻</h1> <p align="left"> <b>Data Engineering | Machine Learning | Software Development</b>
+<h1 align="left">Hi, I'm Rahul M Holla &nbsp;<img src="./logos/wave_moving.gif" width="30px" /></h1>
+<p align="left"> <b>Data Engineering | Machine Learning | Software Development</b>
 
 <sub>_🌱 <b> Note for Best Experience : </b> This profile is optimized for **LIGHT MODE**. Consider switching to light mode : **Github Settings > Appearance > Theme** and selecting **Light**._</sub>
 
@@ -240,6 +241,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="50" width="50" alt="Jenkins logo" style="margin-right: 25px;"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="50" width="50" alt="Bash logo" style="margin-right: 25px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" height="50" width="50" alt="SSH logo" style="margin-right: 25px;"/>
 
 </div>
 
