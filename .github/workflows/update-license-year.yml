@@ -1,0 +1,17 @@
+name: Update License Year
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+jobs:
+  update-year:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Update Year in License
+      run: sed -i "s/Copyright © [0-9]\{4\}/Copyright © $(date +%Y)/" license.md
+    - name: Commit changes
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git commit -am "Update license year to $(date +%Y)"
+        git push
