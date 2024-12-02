@@ -9,10 +9,15 @@ jobs:
     - uses: actions/checkout@v3
     - name: Update Year in License
       run: sed -i "s/Copyright © [0-9]\{4\}/Copyright © $(date +%Y)/" LICENSE.md
-    - name: Commit changes
+    - name: Commit and Push Changes if Any
       run: |
         git config user.name "github-actions"
         git config user.email "github-actions@github.com"
-        git add .
-        git commit -am "Update license year to $(date +%Y)"
-        git push
+        # Check for changes
+        if ! git diff --quiet; then
+          git add .
+          git commit -m "Update license year to $(date +%Y)"
+          git push
+        else
+          echo "No changes to commit."
+        fi
