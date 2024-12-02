@@ -8,7 +8,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Update Year in License
-      run: sed -i "s/Copyright © [0-9]\{4\}/Copyright © $(date +%Y)/" license.md
+      run: sed -i "s/Copyright © [0-9]\{4\}/Copyright © $(date +%Y)/" LICENSE.md
     - name: Commit changes
       run: |
         git config user.name "github-actions"
