@@ -1,6 +1,6 @@
 # Custom License for rahulholla97 Repository
 
-## Copyright © 2024 Rahul M Holla. All rights reserved.
+## Copyright © 2025 Rahul M Holla. All rights reserved.
 
 Permission is hereby not granted to any person to use, copy, modify, distribute, or make any use of this project and associated documentation files (the "Project") for any purpose, including personal, non-commercial, or commercial use, without explicit prior written permission from the author.
 
