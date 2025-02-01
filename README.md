@@ -11,9 +11,9 @@
 
 🌟 **Passionate Data Enthusiast and Machine Learning Engineer**
 
-💻 **Experience** : Over 4 years in Data Science & Machine Learning
+💻 **Experience :** Over 4 years in Data Science & Machine Learning
 
-📊 **Specialization** :
+📊 **Specialization :**
 
 - Crafting scalable data solutions that solve real-world problems 🌍  
 - Building reliable data pipelines for seamless processes 🔧
