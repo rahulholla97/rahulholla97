@@ -11,7 +11,7 @@
 
 🌟 **Passionate Data Enthusiast and Machine Learning Engineer**
 
-💻 **Experience** : Over 2.5 years in Data Science & Machine Learning
+💻 **Experience** : Over 4 years in Data Science & Machine Learning
 
 📊 **Specialization** :
 
@@ -196,13 +196,15 @@
 ### Models used for Inferencing / Fine-tuning :
 
 - **BERT**
-- **Yolo** - `v8` `v11`
-- **Llama 3.1** - `8B` `70B` `405B`
+- **Yolo** - `v8` &nbsp; `v11`
+- **Llama 3.1** - `8B` &nbsp; `70B` &nbsp; `405B`
 - **Mistral** - `7B`
-- **Falcon** - `7B` `40B`
+- **Falcon** - `7B` &nbsp; `40B`
 - **Mixtral** - `8x7B`
 - **Gemma** - `7B`
-- **Claude 3** - `Sonnet` `Opus`
+- **Llama 3.3** - `8B` &nbsp; `70B`
+- **Claude 3** - `Sonnet` &nbsp; `Opus`
+- **DeepSeek v3** - `R1` &nbsp; `Distill Llama 8B` &nbsp; `Distill Qwen 1.5B`
 
 ---
 
