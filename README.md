@@ -5,13 +5,13 @@
 </p>
 
 <h1 align="left">Hi, I'm Rahul M Holla &nbsp;<img src="./logos/wave_moving.gif" width="30px" /></h1>
-<p align="left"> <b>Data Engineering | Machine Learning | Software Development</b>
+<p align="left"> <b>Data Engineering | Machine Learning | Gen AI | Software Development</b>
 
 <sub>_🌱 <b> Note for Best Experience : </b> This profile is optimized for **LIGHT MODE**. Consider switching to light mode : **Github Settings > Appearance > Theme** and selecting **Light**._</sub>
 
 🌟 **Passionate Data Enthusiast and Machine Learning Engineer**
 
-💻 **Experience :** Over 4 years in Data Science & Machine Learning
+💻 **Experience :** Over 5 years in Data Science, AI & Machine Learning
 
 📊 **Specialization :**
 
